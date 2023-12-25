@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning `swift`、`swiftUI`、`javscript`、`typescript`、`vue`、`React`、`node.js`、`nest.js`、`express`、`docker`...
+
 [blog](http://flyingcc.cn)
 
 [![FlyingCaiChong's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingCaiChong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
