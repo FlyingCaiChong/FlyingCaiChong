@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Here is my [blog](http://flyingcc.cn)
 
 [![FlyingCaiChong's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingCaiChong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![FlyingCaiChong's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyingCaiChong&count_private=true&show_icons=true&theme=radical)](https://github.com/FlyingCaiChong/github-readme-stats)
 
 [My open source contributions](https://my-contributions.github.io/?author=FlyingCaiChong)
