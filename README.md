@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 
 ![FlyingCaiChong's GitHub stats](https://github-readme-stats.shion.dev/api?username=FlyingCaiChong)
 
-![FlyingCaiChong's Github Top Langs](https://jj-ghtoplangs.alwaysdata.net/toplangs?user=FlyingCaiChong)
-
 [My open source contributions](https://my-contributions.github.io/?author=FlyingCaiChong)
